@@ -851,7 +851,7 @@ about
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(../images/2.jpg);
+  background-image: url(../images/jhamela.png);
   background-repeat: no-repeat;
     
 /*
@@ -893,6 +893,7 @@ TRY IT ... with or without CENTER CENTER
   justify-content: center;
   background-image: url(../images/gr1.png);
   background-repeat: no-repeat;
+  margin-bottom: -320px;
 }
 
 #about2 .right-image {
@@ -1479,6 +1480,9 @@ TRY IT ... with or without CENTER CENTER
     padding: 80px;
 }
 
+.right-image #jhamela {
+  transform: scale(1.7);
+}
 
 
 
