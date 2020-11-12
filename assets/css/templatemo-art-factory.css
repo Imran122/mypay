@@ -1660,8 +1660,12 @@ input:-moz-placeholder { /* Firefox 18- */
   }
   .right-image #jhamela {
     transform: scale(1);
-    padding-right: 70px;
+    padding-right: 90px;
     padding-bottom: 30px;
+  }
+  .left-im img {
+    transform: scale(.8);
+    padding-top: 150px;
   }
 }
 
