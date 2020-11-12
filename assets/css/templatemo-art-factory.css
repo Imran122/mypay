@@ -1667,6 +1667,18 @@ input:-moz-placeholder { /* Firefox 18- */
     transform: scale(.8);
     padding-top: 150px;
   }
+  #about3 .row .left-text {
+    padding-top: 130px;
+  }
+  .points {
+    width: 100vw;
+    margin-top: -30px;
+  }
+  .points p {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: -180px;
+  }
 }
 
 .formtext{
